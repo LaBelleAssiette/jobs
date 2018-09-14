@@ -15,12 +15,12 @@ He likes his applications to be intuitive :)
 # What we ask for
 
 * Build a small application to help chef Amit manage his stock.
-* This application must use an express.js-based API server.
-* As we use MongoDB at La Belle Assiette, it would make sense that your demo app uses it as well for bonus points! (along with mongoose for the ORM).
-* The data _cannot_ be stored (only) with the `localStorage` API. You must have an API server that handles the CRUD operations.
+* This application must use an express.js (or express-like) API server.
+* Use MongoDB (along with mongoose for the ORM) (as we do at La Belle Assiette), to demonstrate that you have good schema design competencies.
 * No need for user authentication.
-* For the web application, use any framework you feel most comfortable with. However, in the same spirit, as we use React.js, AngularJS (1.X), and jQuery, bonus points if you demonstrate your ability to use one of those. But don't bother learning a new framework just for this demo app, use whatever you already know (it'll be faster) and we'll be able to judge from that :)
-* No need to spend time on design. Plain Bootstrap is plenty enough. However, we'd appreciate a good UX!
+* For the web application, use any framework you feel most comfortable with.
+* No need to spend time on design. Plain Bootstrap is plenty enough.
+* The data _cannot_ be stored (only) with the `localStorage` API. You must have an API server that handles the CRUD operations.
 
 The data structures and the file(s) format are totally up to you. Feel free to split (or not) the API server and the main application (two repositories).
 
