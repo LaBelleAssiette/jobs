@@ -21,6 +21,7 @@ He likes his applications to be intuitive :)
 * For the web application, use any framework you feel most comfortable with.
 * No need to spend time on design. Plain Bootstrap is plenty enough.
 * The data _cannot_ be stored (only) with the `localStorage` API. You must have an API server that handles the CRUD operations.
+* More generally, apply any best-practice you know about the JS community and/or what you learned during your past experienced
 
 The data structures and the file(s) format are totally up to you. Feel free to split (or not) the API server and the main application (two repositories).
 
