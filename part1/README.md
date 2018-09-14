@@ -5,10 +5,11 @@ He would like a web application to help him manage an inventory of all the ingre
 
 He wants to be able to:
 
-* add ingredients to his inventory
-* deal with quantities
-* change the name of his ingredients in case he ~~mispelled~~ misspelled them
-* remove the ingredients he has already used for cooking
+* Add ingredients to his inventory
+* Deal with quantities
+* Change the name of his ingredients in case he ~~mispelled~~ misspelled them
+* Remove the ingredients he has already used for cooking
+* Handle uncountable ingredients as well (milk, olive oil, etc.)
 
 He likes his applications to be intuitive :)
 
@@ -28,11 +29,6 @@ The data structures and the file(s) format are totally up to you. Feel free to s
 You can use a bootstrap/generator to kickstart your app (e.g. create-react-app). We do however care about every file that you'll turn in, so don't create bloat (unused files/config).
 
 When you're done, share your code with @saveman71 on GitHub.
-
-# Bonus
-
-* Handle uncountable ingredients as well (milk, olive oil, etc.)
-* Handle multiple inventories
 
 # Final word
 
