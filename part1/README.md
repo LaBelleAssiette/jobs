@@ -20,9 +20,8 @@ He likes his applications to be intuitive :)
 * Use MongoDB (along with mongoose for the ORM) (as we do at La Belle Assiette), to demonstrate that you have good schema design competencies.
 * No need for user authentication.
 * For the web application, use any framework you feel most comfortable with.
-* No need to spend time on design. Plain Bootstrap is plenty enough.
+* No need to spend time on web design. Plain Bootstrap is plenty enough.
 * The data _cannot_ be stored (only) with the `localStorage` API. You must have an API server that handles the CRUD operations.
-* More generally, apply any best-practice you know about the JS community and/or what you learned during your past experienced
 
 The data structures and the file(s) format are totally up to you. Feel free to split (or not) the API server and the main application (two repositories).
 
@@ -30,6 +29,13 @@ You can use a bootstrap/generator to kickstart your app (e.g. create-react-app).
 
 When you're done, share your code with @saveman71 on GitHub.
 
-# Final word
+# FAQ
 
-Don't spend too much time on this, really. If you feel like you have something that accurately represents what you can do, but don't have the time to polish it, it's okay, we'll accommodate.
+## What will you evaluate my work on?
+
+We want to see how you would code daily at La Belle Assiette. Apply any best-practice you know about the JS community and/or what you learned during your past experiences, and that would make sense in a production environment. We want beautiful code!
+
+## How much time should I invest on this task?
+
+We are aware that we are asking for a lot. We will accept that you leave out part of the implementation if you explain in the README or in comments what you were intending to add, and how you would have done it. However we'd still like to see your best work, so don't leave out too much!
+
