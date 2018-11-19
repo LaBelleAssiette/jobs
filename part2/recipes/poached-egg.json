@@ -1,9 +1,0 @@
-{
-  "name": "L'oeuf poché du chef",
-  "preparationTime": 10,
-  "cookingTime": 5,
-  "ingredients": {
-    "eggs": 1,
-    "white vinegar": true
-  }
-}
